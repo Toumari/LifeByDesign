@@ -1,0 +1,49 @@
+body {
+  background-image: url("/static/img/about/braindrawing.jpg");
+}
+
+div.ex1 {
+    padding: 25px 100px 0 0;
+}
+
+div.ex2 {
+    padding: 10px 100px 0 0;
+}
+
+div.ex3 {
+    padding: 25px 50px 0 0px;
+}
+
+h1.h1x {
+  padding: 10px 60px 0 0;
+}
+
+div.pwdr {
+  padding: 10px 50px 0 0;
+}
+
+div.panel1 {
+  padding-left: 50px;
+  padding-right: -10px;
+  overflow: hidden;
+}
+
+div.login-page {
+  padding-top: 150px;
+}
+
+div.reg-page {
+  padding-top: 200px;
+ }
+
+div.col-text {
+  margin-top: 6%;}
+
+div.col-image {
+    margin-top: 6%;
+    margin-bottom: 4%
+    }
+
+div.more-info-box {
+    padding-top: 50px
+    }
